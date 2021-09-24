@@ -275,7 +275,7 @@ footer {
 
    header {
       .container {
-         padding-block: 2rem;
+         padding-block: 3rem;
       }
 
       .logo {
@@ -295,7 +295,7 @@ footer {
    }
 
    #sct-1 {
-      padding: 0;
+      padding-block: 0 2.5rem;
       margin-bottom: 7rem;
       text-align: start;
       background-color: var(--clr-very-pale-cyan);
