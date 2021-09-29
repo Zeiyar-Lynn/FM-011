@@ -232,7 +232,7 @@ footer #links a {
 }
 
 footer #links a:hover {
-  text-decoration: underline;
+  border-bottom: 2px solid #fff;
 }
 
 footer #social {
